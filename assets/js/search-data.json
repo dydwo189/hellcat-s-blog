@@ -4,9 +4,9 @@
         "post0": {
             "title": "제목!",
             "content": "",
-            "url": "https://dydwo189.github.io/hellcat-s-blog/jupyter/deep%20learning/2021/07/14/_07_08_github_blog_for_Pythonista.html",
-            "relUrl": "/jupyter/deep%20learning/2021/07/14/_07_08_github_blog_for_Pythonista.html",
-            "date": " • Jul 14, 2021"
+            "url": "https://dydwo189.github.io/hellcat-s-blog/jupyter/deep%20learning/2021/07/20/_07_08_github_blog_for_Pythonista.html",
+            "relUrl": "/jupyter/deep%20learning/2021/07/20/_07_08_github_blog_for_Pythonista.html",
+            "date": " • Jul 20, 2021"
         }
         
     
@@ -62,6 +62,22 @@
   
 
   
+      ,"page3": {
+          "title": "Sample",
+          "content": "Hello World . hello | hello | hello | .",
+          "url": "https://dydwo189.github.io/hellcat-s-blog/sample/",
+          "relUrl": "/sample/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -70,18 +86,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://dydwo189.github.io/hellcat-s-blog/robots.txt",
